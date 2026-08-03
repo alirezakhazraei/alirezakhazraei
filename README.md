@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Alireza 👋
 
-<!--
-**alirezakhazraei/alirezakhazraei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Engineer and Backend Developer passionate about building intelligent systems, scalable APIs, and reliable software.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python
+- JavaScript
+- FastAPI
+- SQL
+- Machine Learning
+- Deep Learning
+- Linux
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Building & Learning
+- AI-powered applications
+- Backend architecture
+- Neural Networks
+
+> Building intelligent software, one commit at a time.

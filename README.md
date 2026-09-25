@@ -14,6 +14,8 @@ I'm an AI Engineer and Backend Developer passionate about building intelligent s
 - postgres sql
 - Machine Learning
 - Deep Learning
+- neural networks
+- system design 
 - Linux
 - Git
 

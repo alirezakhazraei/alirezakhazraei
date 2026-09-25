@@ -1,6 +1,6 @@
 # Hi, I'm Alireza 👋
 
-I'm an AI Engineer and Backend Developer passionate about building intelligent systems, scalable APIs, and reliable software.
+I'm a self taught AI Engineer and Backend Developer passionate about building intelligent systems, scalable APIs, and reliable software.
 
 ## Tech Stack
 - Python
@@ -8,6 +8,7 @@ I'm an AI Engineer and Backend Developer passionate about building intelligent s
 - JavaScript
 - typescript
 - node.js
+- next.js
 - nest.js
 - FastAPI
 - rest api

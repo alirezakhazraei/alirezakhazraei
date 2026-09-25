@@ -5,8 +5,13 @@ I'm an AI Engineer and Backend Developer passionate about building intelligent s
 ## Tech Stack
 - Python
 - JavaScript
+- typescript
+- node.js
+- nest.js
 - FastAPI
+- rest api
 - SQL
+- postgres sql
 - Machine Learning
 - Deep Learning
 - Linux

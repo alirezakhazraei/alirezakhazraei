@@ -17,6 +17,7 @@ I'm a self taught AI Engineer and Backend Developer passionate about building in
 - Machine Learning
 - Deep Learning
 - neural networks
+- Computer vision 
 - system design 
 - Linux
 - Git

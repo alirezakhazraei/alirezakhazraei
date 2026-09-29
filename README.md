@@ -1,30 +1,45 @@
 # Hi, I'm Alireza 👋
 
-I'm a self taught AI Engineer and Backend Developer passionate about building intelligent systems, scalable APIs, and reliable software.
+I'm a self taught AI Engineer and Full stack Developer passionate about building intelligent systems, scalable APIs, and reliable software.
 
 ## Tech Stack
 - Python
-- django 
+- Django 
 - JavaScript
-- typescript
-- node.js
-- next.js
-- nest.js
+- React
+- HTML
+- CSS
+- Typescript
+- OOP (JS , TS)
+- Node.js
+- Next.js
+- Nest.js
 - FastAPI
-- rest api
-- mongo DB
+- Rest API
+- Mongo DB
 - postgres sql
 - Machine Learning
 - Deep Learning
-- neural networks
-- Computer vision 
-- system design 
+- Neural Networks
+- Data Science 
+- Computer Vision 
+- System Design 
 - Linux
 - Git
+- Docker
+- Kubernetes
 
 ## Currently Building & Learning
 - AI-powered applications
 - Backend architecture
-- Neural Networks
+- Frontend Logic
+- PHP
+- Larva
+- C
+- C#
+- C++
+- GO
+- N8N / Automation
+
 
 > Building intelligent software, one commit at a time.

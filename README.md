@@ -4,7 +4,6 @@ I'm a self taught AI Engineer and Full stack Developer passionate about building
 
 ## Tech Stack
 - Python
-- Django 
 - JavaScript
 - Express.js
 - React
@@ -15,7 +14,6 @@ I'm a self taught AI Engineer and Full stack Developer passionate about building
 - Node.js
 - Next.js
 - Nest.js
-- FastAPI
 - Rest API
 - Mongo DB
 - postgres sql

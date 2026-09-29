@@ -42,4 +42,6 @@ I'm a self taught AI Engineer and Full stack Developer passionate about building
 - N8N / Automation
 
 
+
+
 > Building intelligent software, one commit at a time.

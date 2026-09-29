@@ -6,11 +6,12 @@ I'm a self taught AI Engineer and Full stack Developer passionate about building
 - Python
 - Django 
 - JavaScript
+- Express.js
 - React
 - HTML
 - CSS
 - Typescript
-- OOP (JS , TS)
+- OOP (Js , Ts , Py)
 - Node.js
 - Next.js
 - Nest.js
@@ -40,8 +41,7 @@ I'm a self taught AI Engineer and Full stack Developer passionate about building
 - C++
 - GO
 - N8N / Automation
-
-
+- kafka
 
 
 > Building intelligent software, one commit at a time.

@@ -37,8 +37,6 @@ I'm a self taught AI Engineer and Full stack Developer passionate about building
 - PHP
 - Larva
 - C
-- C#
-- C++
 - GO
 - N8N / Automation
 - kafka

@@ -32,7 +32,6 @@ I'm a self taught AI Engineer and Full stack Developer passionate about building
 - AI-powered applications
 - Backend architecture
 - Frontend Logic
-- PHP
 - Larva
 - C
 - GO
